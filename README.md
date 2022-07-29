@@ -29,7 +29,7 @@
   </a> 
   
   ![Snake animation](https://github.com/IzysDuarte/IzysDuarte/blob/output/github-contribution-grid-snake.svg)
-  
+    
   </div>
  
   
